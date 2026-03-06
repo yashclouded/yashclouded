@@ -7,8 +7,8 @@ probably cooler than you think.
 
 <p>
 <b>fav repos</b><br>
-<a href="https://github.com/">aAlem</a><br>
-<a href="https://github.com/">Codiva</a>
+<a href="https://github.com/yashclouded/aAlem">aAlem</a><br>
+<a href="https://github.com/yashclouded/codiva">Codiva</a>
 </p>
 
 <p>
