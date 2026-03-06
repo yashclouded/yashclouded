@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @yashclouded
-- 👀 I’m interested in Everything You can think off..!!
-- 🌱 I’m currently learning JS, Objected oriented programing, Advance web-d, thermodynamics, and Calculus.
-- 💞️ I’m looking to collaborate on your awesome business ideas
+hi
+i'm *Yash*
+i'm cooler than you can think of
+my fav repo - aAlem, Codiva
+Tech stacks - Vanilla, React, Next, Python, a bit of GoLang, and Rust (and Vibecoding in any language).
 
+my portfolio - yashvibe.codes
+ty
 <!---
 yashclouded/yashclouded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
